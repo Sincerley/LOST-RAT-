@@ -24,7 +24,7 @@
 > * Support for Listen on multiple ports
 > * Weight build from 30kb
 
-[Детект / Detect](https://kleenscan.com/scan_result/https://kleenscan.com/scan_result/91395bb0e6a230cdaedb253bbd882646de8cfa710a225a3c6c74c68dfc228fc9)  2023-11-28
+[Детект / Detect](https://kleenscan.com/scan_result/91395bb0e6a230cdaedb253bbd882646de8cfa710a225a3c6c74c68dfc228fc9)  2023-11-28
 
 > Софт, писал для себя,могу добавить функции которые вам нужны.. / Software, I wrote for myself, I can add the functions that you need..
 > 
